@@ -2,7 +2,7 @@
   "name": "node",
   "version": "1.0.0",
   "description": "",
-  "main": "fileTool.js",
+  "main": "log-watcher.js",
   "dependencies": {
     "fs": "^0.0.1-security",
     "log-timestamp": "^0.3.0",
