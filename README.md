@@ -8,8 +8,7 @@ node log-watcher.js
 
 Example output
 ```json
-  [
-   {
+  [{
     "type": 
       "kill", 
       "data": 
@@ -20,8 +19,7 @@ Example output
         "fed",
         "iw5_p90_mp_silencer_camo03"
       ]
-   }
-  ]
+   }]
 ```
 
 Frontend
