@@ -1,5 +1,4 @@
 # Cod-Livefeed
-Livefeed or Cod servers
 Listens for server log file changes and sends the parsed events (join / leave, kills and messages) to every client connected to the websocket
 # Usage
 ```bash
