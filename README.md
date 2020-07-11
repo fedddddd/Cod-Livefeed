@@ -7,18 +7,34 @@ node log-watcher.js
 
 Example output
 ```json
-  [{
-    "type": 
-      "kill", 
+  [
+  {
+      "type": "kill", 
       "data": 
       [
         "axis",
         "fed",
         "axis",
-        "fed",
+        "anotherfed",
         "iw5_p90_mp_silencer_camo03"
       ]
-   }]
+   },
+     {
+      "type": "say", 
+      "data": 
+      [
+        "fed",
+        "hello"
+      ]
+   },
+     {
+      "type": "quit", 
+      "data": 
+      [
+        "fed"
+      ]
+     }
+   ]
 ```
 
 Frontend
