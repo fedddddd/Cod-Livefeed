@@ -10,9 +10,9 @@ Example output
 ```json
   [
    {
-    type: 
+    "type": 
       "kill", 
-      data: 
+      "data": 
       [
         "axis",
         "fed",
